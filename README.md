@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Basil Varghesekutty! 👋
 
-<!--
-**basil-123/basil-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring AI & Data Engineer | Computer Science Grad
+I am passionate about building intelligent systems, optimizing data pipelines, and exploring the frontiers of Deep Learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** Python, SQL, JavaScript, C++
+* **AI/ML:** TensorFlow, OpenCV, Scikit-learn, Keras
+* **Data:** Pandas, NumPy, MySQL, Firebase
+* **Web:** React, Next.js, Flask, Tailwind CSS
+
+---
+
+### 📊 GitHub Stats
+![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=basil-123&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basil-123&layout=compact&theme=radical)
+
+---
+
+### 🔗 Connect with Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE/)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](YOUR-PORTFOLIO-URL-HERE)
